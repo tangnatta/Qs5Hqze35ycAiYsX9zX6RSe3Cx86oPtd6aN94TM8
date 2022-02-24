@@ -1,0 +1,5 @@
+ลายแทง: งานของผมเอง
+ตอนนี้ผมเปิด port ใน server ไว้พอร์ตเดียว หาเลขพอร์ตให้เจอ (ใบ้ว่าเป็นเลขนี้คือ ปีเกิดของผม * รุ่นที่) แล้วใช้ Python Socket ส่งคำสั่งขอ โดยรหัสที่จะทำให้ได้ลิ้งค์สมัครคือ "tang-ชื่อผลไม้-ชื่อผลไม้-ชื่อผลไม้" 
+ข้อมูลที่มีให้
+ดึง IP จาก: home-id6mbxrp65dfb8l.duckdns.org
+Word List: ['chayote fruit', 'kundong', 'dekopon', 'rose apple', 'mamey sapote', 'ackee', 'agave plant', 'bilimbi', "dead man's fingers", 'korlan', 'charichuelo fruit', 'kahikatea', 'babaco', 'bilimbi', 'calamansi', 'clementines', 'nere', 'loquat', 'fibrous satinash', 'batuan fruit']
